@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1556610273,
+	"version": 1556718049,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -217,6 +217,7 @@
 		"images/untitled3-sheet0.png",
 		"images/s22-sheet0.png",
 		"images/s23-sheet0.png",
+		"images/sprite49-sheet0.png",
 		"media/funny-music-for-videos-funny-background-music-for-bloopers-and-gaming-videos.m4a",
 		"media/funny-music-for-videos-funny-background-music-for-bloopers-and-gaming-videos.ogg",
 		"media/game.m4a",
